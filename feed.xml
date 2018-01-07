@@ -1,1 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-02T23:53:02-05:00</updated><id>/</id><title type="html">Jacky Blogger Boy</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">The Premier Post!</title><link href="/2018/01/02/test.html" rel="alternate" type="text/html" title="The Premier Post!" /><published>2018-01-02T00:00:00-05:00</published><updated>2018-01-02T00:00:00-05:00</updated><id>/2018/01/02/test</id><content type="html" xml:base="/2018/01/02/test.html">&lt;p&gt;Is a test post. See you tomorrow?&lt;/p&gt;</content><author><name></name></author><summary type="html">Is a test post. See you tomorrow?</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-01-07T13:57:15-05:00</updated><id>/</id><title type="html">Jacky Blogger Boy</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">The Devil is in Japan</title><link href="/2018/01/07/jiro.html" rel="alternate" type="text/html" title="The Devil is in Japan" /><published>2018-01-07T00:00:00-05:00</published><updated>2018-01-07T00:00:00-05:00</updated><id>/2018/01/07/jiro</id><content type="html" xml:base="/2018/01/07/jiro.html">&lt;h3 id=&quot;food-as-a-hobby&quot;&gt;Food as a hobby&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+Living in a wealthy and developed country, one of the luxuries we enjoy is that food is not just a necessity. It’s also a hobby. The driving force behind this is without a doubt, technology. With the rise of yelp, instagram, and youtube, culinary delights have become more accessible to the general public. It’s a feast for your eyes as much as it is for your tastebuds. Seeing other people derive orgasmic pleasure from eating is the arguably the most effective advertisement I have ever seen.&lt;/p&gt;
+
+&lt;div class=&quot;center-column&quot;&gt;
+  &lt;img src=&quot;/mark-noodles.gif&quot; /&gt;
+  &lt;a href=&quot;https://www.youtube.com/user/migrationology&quot;&gt; Mark Wiens &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Food bloggers and big YouTube channels such as Munchies, BuzzFeed, Eater control the narrative on food culture and can spin it any way they want. It would be strange if restaurants didn’t reach out to these advertising outlets to get their name out. It would be even stranger, if instead of restaurants, an entire country reached out. I’m talking about Japan.&lt;/p&gt;
+
+&lt;p&gt;Despite how much I want to spiral into a rant about the price of Japanese food in America, there is something more important that deserves your attention.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-devil-himself&quot;&gt;The Devil himself&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+On June 11, 2011, a documentary by the name of “Jiro Dreams of Sushi” was released. It is about Jiro Ono, a sushi chef that Japan has deemed a living, national treasure. His restaurant, Sukiyabashi Jiro has a 3 Michelin Star rating. His sushi is widely considered the best in Japan and celebrities like Anthony Bourdain and Barack Obama would agree. But how does he do it? What separates his sushi from the other top sushi restaurants in Japan that use the same ingredients? Does massaging octopus for an hour truly make a difference? I don’t know.&lt;/p&gt;
+
+&lt;p&gt;What I do know is that there has been an overt effort to mystify sushi and portray it as some divine art that only the most dedicated can learn.&lt;/p&gt;
+
+&lt;p&gt;In the documentary, it is casually mentioned that some apprentices are required to work for 10 years before they are allowed to even cook eggs. One of Jiro’s apprentices spent months making the same egg dish before getting Jiro’s approval. Unless they don’t have measurement tools in Japan and have to eyeball everything, I don’t see how his eggs were considered failures over 200 times. What I believe is that Jiro has thoroughly mastered &lt;a href=&quot;http://itsalwayssunny.wikia.com/wiki/The_D.E.N.N.I.S._System&quot;&gt;the D.E.N.N.I.S system&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span style=&quot;color: red; font-size: 30px;&quot;&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;/span&gt; - Demonstrates value. Being the most renowned sushi chef in Japan and offering to teach his craft.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span style=&quot;color: red; font-size: 30px;&quot;&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;/span&gt; - Engages physically. Using his apprentices for hard labor that his old bones can no longer endure.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span style=&quot;color: red; font-size: 30px;&quot;&gt;&lt;strong&gt;N&lt;/strong&gt;&lt;/span&gt; - Nurtures dependence. Convincing his apprentices they need him to become sushi chefs. An apprentice who spends years only cooking rice and cleaning will have no transferable skills and is thus tied to Jiro.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span style=&quot;color: red; font-size: 30px;&quot;&gt;&lt;strong&gt;N&lt;/strong&gt;&lt;/span&gt; - Neglect emotionally. Breaks his apprentices down by ignoring their need for validation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span style=&quot;color: red; font-size: 30px;&quot;&gt;&lt;strong&gt;I&lt;/strong&gt;&lt;/span&gt; - Inspire hope. Gives his apprentices false hope that one day they will be as good as him.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;span style=&quot;color: red; font-size: 30px;&quot;&gt;&lt;strong&gt;S&lt;/strong&gt;&lt;/span&gt; - Separate entirely. Once he has used his apprentices for all they are worth, he separates.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Jiro worked his sociopathy on Daisuke Nakazawa, the egg-making apprentice mentioned above. Nakazawa was negged so hard by Jiro that he had to flee the country and move to New York.&lt;/p&gt;
+
+&lt;p&gt;Only a double-blind study will convince me that Jiro’s sushi stands above the rest, but I am already convinced that there is a campaign by Japan and Jiro to inflate the value and difficulty of sushi while they continue to decimate the bluefin tuna population. Jiro is no sushi chef, he is a sushi devil.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-answer&quot;&gt;The Answer&lt;/h3&gt;
+
+&lt;p&gt;I was hesitant to post this blog in fear of retaliation by Jiro and his legion. However, in times of darkness and instability, heroes arise. &lt;del&gt;He can protect me&lt;/del&gt;… No, he can protect all of us. Only he possesses the recklessness and brash, American spirit that can free us from Jiro’s chilling grip.&lt;/p&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;
+  &lt;img src=&quot;/logan-paul.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+  &lt;a href=&quot;/2018/01/02/test.html&quot;&gt;Previous&lt;/a&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Food as a hobby Living in a wealthy and developed country, one of the luxuries we enjoy is that food is not just a necessity. It’s also a hobby. The driving force behind this is without a doubt, technology. With the rise of yelp, instagram, and youtube, culinary delights have become more accessible to the general public. It’s a feast for your eyes as much as it is for your tastebuds. Seeing other people derive orgasmic pleasure from eating is the arguably the most effective advertisement I have ever seen.</summary></entry><entry><title type="html">The Premier Post!</title><link href="/2018/01/02/test.html" rel="alternate" type="text/html" title="The Premier Post!" /><published>2018-01-02T00:00:00-05:00</published><updated>2018-01-02T00:00:00-05:00</updated><id>/2018/01/02/test</id><content type="html" xml:base="/2018/01/02/test.html">&lt;p&gt;Is a test post. See you tomorrow?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+  &lt;a href=&quot;/2018/01/07/jiro.html&quot;&gt;Next&lt;/a&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Is a test post. See you tomorrow?</summary></entry></feed>

@@ -160,6 +160,13 @@ table {
 :not(.highlight) > table tr:nth-child(2n) {
   background-color: #f8f8f8; }
 
+/* ALIGNMENT
+ * =============================================== */
+.center-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
 /* Site Header
  * ============================================== */
 .site-header {
